@@ -1,3 +1,5 @@
+https://anime-recommendation-system-llmops-rcomtnvvv9bkdqnmwynko7.streamlit.app/
+
 # 🎌 AniMatch — AI Anime Recommender System
 
 <div align="center">
