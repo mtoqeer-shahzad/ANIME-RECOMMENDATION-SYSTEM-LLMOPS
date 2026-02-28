@@ -1,0 +1,9 @@
+langchain==0.1.16
+langchain-community==0.0.32
+langchain-groq
+langchain-huggingface
+chromadb==0.4.24
+streamlit
+pandas
+python-dotenv
+sentence-transformers
