@@ -1,4 +1,5 @@
 
+<img width="1560" height="460" alt="AI+Anime+Recommender+Workflow (1)" src="https://github.com/user-attachments/assets/a320678d-31e9-45ec-b0c9-15d5a6951da3" />
 
 # 🎌 AniMatch — AI Anime Recommender System
 
